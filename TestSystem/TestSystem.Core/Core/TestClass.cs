@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AdvancedCsharp.src.Core
+namespace TestSystem.Core;
 {
     public class TestClass
     {
